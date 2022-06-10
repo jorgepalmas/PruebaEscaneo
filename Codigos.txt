@@ -1,0 +1,10 @@
+Prueba de escaneo 
+
+primero
+mysql://USERNAME:PASSWORD@HOST:3306/DATABASE";
+
+segundo
+http://user:pass@somehost.com:2222/CMD_API_SOMEAPI?query=string&this=that');
+
+
+
